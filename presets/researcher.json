@@ -1,0 +1,22 @@
+{
+  "id": "researcher",
+  "name": "研究 · 学习 · 出图",
+  "tagline": "读长文、拆论证、跑视觉创作",
+  "description": "适合做资料研究、读书、写报告、玩 AI 绘图的人。核心是「证据优先」的阅读和可复现的视觉产出。",
+  "skills": [
+    "using-superpowers",
+    "brainstorming",
+    "writing-plans",
+    "verification-before-completion",
+    "dsh-deepread",
+    "humanizer",
+    "writing-prompts"
+  ],
+  "plugins": [
+    {
+      "id": "dsh-ui-wallpaper",
+      "why": "换个壁纸，长时间看屏幕舒服些"
+    }
+  ],
+  "extra_skills": []
+}

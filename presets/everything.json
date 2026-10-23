@@ -1,0 +1,53 @@
+{
+  "id": "everything",
+  "name": "我全都要",
+  "tagline": "一套装齐，之后不用再惦记缺什么",
+  "description": "不确定自己要什么、或者想先体验全部能力的人选这个。装了所有通用技能 + 推荐插件。",
+  "skills": [
+    "using-superpowers",
+    "brainstorming",
+    "writing-plans",
+    "executing-plans",
+    "verification-before-completion",
+    "systematic-debugging",
+    "test-driven-development",
+    "requesting-code-review",
+    "receiving-code-review",
+    "using-git-worktrees",
+    "finishing-a-development-branch",
+    "dispatching-parallel-agents",
+    "subagent-driven-development",
+    "de-ai-writing",
+    "humanizer",
+    "humanizer-zh",
+    "shuorenhua",
+    "stop-slop",
+    "writing-prompts",
+    "writing-skills",
+    "huashu-nuwa",
+    "dsh-deepread"
+  ],
+  "plugins": [
+    {
+      "id": "DeepSeek-Balance-Whale-Widget",
+      "why": "桌角一只余额鲸鱼，用量心里有数"
+    },
+    {
+      "id": "dsh-ui-wallpaper",
+      "why": "壁纸随便换"
+    },
+    {
+      "id": "dsh-rail-x",
+      "why": "侧栏增强"
+    },
+    {
+      "id": "dsh-status-rotator",
+      "why": "状态轮播"
+    },
+    {
+      "id": "dsh-deep-whale",
+      "why": "主题换肤"
+    }
+  ],
+  "extra_skills": []
+}

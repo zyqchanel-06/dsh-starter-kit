@@ -1,0 +1,26 @@
+{
+  "id": "writer",
+  "name": "写作 · 内容创作者",
+  "tagline": "让 AI 写出来的中文像人写的，而不是一眼假",
+  "description": "适合写公众号、小红书、视频脚本、文案、邮件的人。核心是「去 AI 味」和「先想清楚再动笔」。",
+  "skills": [
+    "using-superpowers",
+    "brainstorming",
+    "writing-plans",
+    "verification-before-completion",
+    "de-ai-writing",
+    "humanizer-zh",
+    "shuorenhua",
+    "stop-slop",
+    "writing-prompts",
+    "writing-skills",
+    "huashu-nuwa"
+  ],
+  "plugins": [
+    {
+      "id": "dsh-ui-wallpaper",
+      "why": "换个顺眼的壁纸，写东西时心情好一点"
+    }
+  ],
+  "extra_skills": []
+}

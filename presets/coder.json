@@ -1,0 +1,32 @@
+{
+  "id": "coder",
+  "name": "编程 · 开发者",
+  "tagline": "把「AI 一把梭」变成「有计划、有测试、有审查」",
+  "description": "适合用 AI 写代码、维护小项目的人。核心是工程纪律：先想清楚、先写测试、改完要验证。",
+  "skills": [
+    "using-superpowers",
+    "brainstorming",
+    "writing-plans",
+    "executing-plans",
+    "verification-before-completion",
+    "systematic-debugging",
+    "test-driven-development",
+    "requesting-code-review",
+    "receiving-code-review",
+    "using-git-worktrees",
+    "finishing-a-development-branch",
+    "dispatching-parallel-agents",
+    "subagent-driven-development"
+  ],
+  "plugins": [
+    {
+      "id": "dsh-rail-x",
+      "why": "侧栏塞更多操作，写代码时少点鼠标"
+    },
+    {
+      "id": "dsh-status-rotator",
+      "why": "状态栏轮播关键信息"
+    }
+  ],
+  "extra_skills": []
+}
